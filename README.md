@@ -60,5 +60,3 @@ Implementar técnicas de multitarea y sincronización para asegurar que la aplic
 - **Worker Thread** - Para operaciones largas
 - **Lock Pattern** - Para acceso exclusivo a recursos
 - **Observer Pattern** - Para actualizaciones de UI
-
-## 📁 Estructura del Código
